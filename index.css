@@ -15,3 +15,18 @@ span{
     font-size: 40px;
     font-weight: bold;
 }
+.top-section{
+    background-color: aquamarine;
+}
+.bottom-section{
+    background-color: paleturquoise;
+}
+.p-section{
+    font-style: italic;
+}
+#highlight{
+    background-color: black;
+}
+#new{
+    color: plum;
+}
