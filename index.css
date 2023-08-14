@@ -1,0 +1,17 @@
+body{
+    background-color: black;
+    color: aliceblue;
+    font-size: 21px;
+}
+p{
+    color: blue;
+}
+div{
+    background-color: aqua;
+    width: 500px;
+}
+span{
+    color: blueviolet;
+    font-size: 40px;
+    font-weight: bold;
+}
